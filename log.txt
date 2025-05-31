@@ -1,0 +1,4 @@
+2025-05-31 10:12:01 INFO Server started
+2025-05-31 10:12:02 WARNING CPU usage high
+2025-05-31 10:12:03 ERROR Disk not found
+2025-05-31 10:12:04 INFO Service running

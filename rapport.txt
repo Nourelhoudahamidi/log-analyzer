@@ -1,0 +1,6 @@
+Lignes : 4
+Mots : 22
+Caractères : 165
+ERROR : 1
+WARNING : 1
+INFO : 2
